@@ -1,0 +1,17 @@
+.jack {
+  border: 2px;
+  background-color: brown;
+  text-align: justify;
+  border-radius: 5px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  font-size: 25px;
+
+}
+.jack h3{
+    color: chartreuse;
+    text-align: center;
+
+}
+
