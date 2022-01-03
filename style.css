@@ -1,6 +1,6 @@
 .jack {
   border: 2px;
-  background-color: rgb(165, 153, 42);
+background-color: cyan;
   text-align: justify;
   border-radius: 5px;
   padding-left: 8%;
@@ -10,8 +10,12 @@
 
 }
 .jack h3{
-    color: chartreuse;
+    color: rgb(255, 0, 0);
     text-align: center;
 
 }
 
+#hh{
+    text-align: center;
+    color: darkslategrey;
+}
